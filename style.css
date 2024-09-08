@@ -1,0 +1,162 @@
+body {
+    height: 100%;
+    background-color: black;
+    margin: 5px 0 5px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    font-size: 3em;
+    font-weight: bolder;
+    unicode-bidi: isolate;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+h3 {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.contenedor1 {
+    background-color: white;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.titulo-contenedor1 {
+    display: flex;
+    width: 90%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.subtitulo-contenedor1 {
+    display: flex;
+    gap: 5px;
+}
+
+.imagen-contenedor1 {
+    width: 90%;
+}
+
+.imagen1 {
+    width: 100%;
+    object-fit: contain;
+}
+
+.lorem-contenedor1 {
+    display: flex;
+    justify-content: center;
+}
+
+.lorem1 {
+    width: 90%;
+    text-align: justify;
+}
+
+.contenedor2 {
+    background-color: white;
+    width: 500px;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.titulo-contenedor2 {
+    display: flex;
+    width: 90%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.subtitulo-contenedor2 {
+    display: flex;
+    gap: 5px;
+}
+
+.imagen-contenedor2 {
+    width: 90%;
+}
+
+.imagen2 {
+    width: 100%;
+    object-fit: contain;
+}
+
+.lorem-contenedor2 {
+    display: flex;
+    justify-content: center;
+}
+
+.lorem2 {
+    width: 90%;
+    text-align: justify;
+}
+
+.contenedor3 {
+    background-color: white;
+    width: 500px;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.titulo-contenedor3 {
+    display: flex;
+    width: 90%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.subtitulo-contenedor3 {
+    display: flex;
+    gap: 5px;
+}
+
+.imagen-contenedor3 {
+    display: flex;
+    width: 90%;
+}
+
+.imagen3 {
+    width: 100%;
+    object-fit: contain;
+}
+
+.lorem-contenedor3 {
+    display: flex;
+    justify-content: center;
+}
+
+.lorem3 {
+    width: 90%;
+    text-align: justify;
+}
