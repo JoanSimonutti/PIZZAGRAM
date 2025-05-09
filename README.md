@@ -1,5 +1,5 @@
 # Soy Joan Simonutti y éste es <br/>mi primer proyecto en HTML y CSS, Pizzagram.
-### Para visualizar la pagina web copia y pega <br/>el siguiente comando en la consola "pip3 install flask && python3 server.py"
+### NOTA: Para visualizar la pagina web copia y pega <br/>el siguiente comando en la consola "pip3 install flask && python3 server.py"
 ---
 ### HTML Hello
 
