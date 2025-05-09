@@ -2,9 +2,9 @@ body {
   height: 100%;
   margin: 15px;
   background-color: #302f2f;
+  /*background-image: url('/backup-img/background1.jpg') ;*/
   display: flex;
   flex-direction: column;
-  /*justify-content: center;*/
   align-items: center;
 }
 
