@@ -1,6 +1,6 @@
-### Mi primer proyecto en HTML y CSS, Pizzagram.
+# Mi primer proyecto en HTML y CSS, Pizzagram.
 
-# HTML Hello
+### HTML Hello
 
 The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
 
