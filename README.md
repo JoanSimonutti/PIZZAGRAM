@@ -1,4 +1,4 @@
-# Mi primer proyecto en HTML y CSS, Pizzagram.
+# Soy Joan Simonutti y este es mi primer proyecto en HTML y CSS, Pizzagram.
 
 ### HTML Hello
 
