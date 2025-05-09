@@ -1,11 +1,8 @@
 ### Soy Joan Simonutti y éste es <br/>mi primer proyecto en HTML y CSS, Pizzagram.
+
 ### NOTA: Para visualizar la pagina web copia y pega <br/>el siguiente comando en la consola "pip3 install flask && python3 server.py"
+
 ---
-### HTML Hello
-
-The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
-
-> There is a video tutorial on [how to use this template to create your very first website here](https://youtu.be/dfbDCMu_p-0).
 
 ## What to do next?
 
